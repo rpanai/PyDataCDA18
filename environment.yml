@@ -1,4 +1,4 @@
-name: talkCRDB
+name: talkCDA
 channels:
   - defaults
 dependencies:
