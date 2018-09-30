@@ -6,6 +6,7 @@
 __pycache__/
 data/
 .ipynb_checkpoints/*
+dask-worker-space/*
 *.py[cod]
 *.pyc
 *.so
